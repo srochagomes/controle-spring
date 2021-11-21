@@ -1,6 +1,12 @@
 package com.scala.controlfinan.repository.specification;
 
-import com.scala.controlfinan.repository.specification.operators.*;
+import com.scala.controlfinan.repository.specification.operators.BetweenLocalDate;
+import com.scala.controlfinan.repository.specification.operators.Equals;
+import com.scala.controlfinan.repository.specification.operators.GreaterThan;
+import com.scala.controlfinan.repository.specification.operators.LessThan;
+import com.scala.controlfinan.repository.specification.operators.Like;
+import com.scala.controlfinan.repository.specification.operators.NotEquals;
+import com.scala.controlfinan.repository.specification.operators.OperatorFunction;
 import org.springframework.data.jpa.domain.Specification;
 
 public enum QueryOperator  {

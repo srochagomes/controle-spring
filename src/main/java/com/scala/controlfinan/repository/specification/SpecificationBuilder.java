@@ -5,7 +5,6 @@ import org.springframework.data.jpa.domain.Specification;
 import org.springframework.util.ObjectUtils;
 
 import java.util.List;
-import java.util.Objects;
 
 @AllArgsConstructor
 public class SpecificationBuilder<T>{

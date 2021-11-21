@@ -1,9 +1,7 @@
 package com.scala.controlfinan.controller.categories;
 
 import com.scala.controlfinan.config.GetCategoryParameterConfig;
-import com.scala.controlfinan.domain.Account;
 import com.scala.controlfinan.domain.Category;
-import com.scala.controlfinan.service.accounts.SearchAccounts;
 import com.scala.controlfinan.service.categories.SearchCategories;
 import io.swagger.annotations.ApiOperation;
 import lombok.AllArgsConstructor;

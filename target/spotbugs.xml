@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BugCollection version='4.2.2' threshold='high' effort=''><Error></Error><Project><SrcDir>/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java</SrcDir><SrcDir>/home/programmer/desenvolvimento/projetos/controle-spring/target/generated-sources/annotations</SrcDir><SrcDir>/home/programmer/desenvolvimento/projetos/controle-spring/src/test/java</SrcDir><SrcDir>/home/programmer/desenvolvimento/projetos/controle-spring/target/generated-test-sources/test-annotations</SrcDir></Project></BugCollection>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/domain/Transaction.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/domain/PaginatedResponse.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/domain/Account.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/domain/CategoryType.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/domain/Category.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/Accounts.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/Users.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/Categories.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/specification/Filter.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/specification/SpecificationBuilder.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/specification/operators/NotEquals.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/specification/operators/Equals.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/specification/operators/BetweenLocalDate.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/specification/operators/Like.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/specification/operators/OperatorFunction.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/specification/operators/LessThan.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/specification/operators/GreaterThan.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/specification/QueryOperator.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/data/CategoryEntity.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/data/UserEntity.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/data/AccountEntity.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/data/TransactionEntity.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/repository/Transactions.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/ControlFinanApplication.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/config/GetAccountsParameterConfig.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/config/SwaggerConfiguration.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/config/GetTransactionByAccountParameterConfig.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/config/RestResponseExceptionHandler.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/config/GetCategoryParameterConfig.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/controller/transactions/TransactionsRootController.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/controller/transactions/GetTransaction.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/controller/transactions/PostCreateTransaction.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/controller/accounts/PostCreateAccount.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/controller/accounts/DeleteAccount.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/controller/accounts/GetAccount.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/controller/accounts/AccountsRootController.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/controller/categories/PostCreateCategory.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/controller/categories/CategoriesRootController.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/controller/categories/GetCategory.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/service/transactions/CreateTransactions.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/service/transactions/SearchTransactions.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/service/accounts/DeleteAccounts.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/service/accounts/SearchAccounts.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/service/accounts/CreateAccounts.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/service/categories/CreateCategories.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/java/com/scala/controlfinan/service/categories/SearchCategories.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/target/generated-sources/annotations/com/scala/controlfinan/repository/data/TransactionEntity_.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/target/generated-sources/annotations/com/scala/controlfinan/repository/data/CategoryEntity_.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/target/generated-sources/annotations/com/scala/controlfinan/repository/data/UserEntity_.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/target/generated-sources/annotations/com/scala/controlfinan/repository/data/AccountEntity_.java">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/main/resources/application.properties">
+</file>
+<file name="/home/programmer/desenvolvimento/projetos/controle-spring/src/test/resources/application-test.properties">
+</file>
+</checkstyle>

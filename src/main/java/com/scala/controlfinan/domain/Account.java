@@ -1,8 +1,6 @@
 package com.scala.controlfinan.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.fasterxml.jackson.annotation.JsonInclude;
-import com.fasterxml.jackson.annotation.JsonProperty;
 import com.scala.controlfinan.repository.data.AccountEntity;
 import com.scala.controlfinan.repository.data.UserEntity;
 import io.swagger.annotations.ApiModelProperty;

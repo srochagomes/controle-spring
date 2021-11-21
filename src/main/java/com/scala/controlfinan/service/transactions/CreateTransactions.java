@@ -1,6 +1,5 @@
 package com.scala.controlfinan.service.transactions;
 
-import com.scala.controlfinan.domain.Category;
 import com.scala.controlfinan.domain.Transaction;
 import com.scala.controlfinan.repository.Accounts;
 import com.scala.controlfinan.repository.Categories;
